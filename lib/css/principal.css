@@ -117,6 +117,35 @@ header nav a{
 	color: #bb0a1a;
 }
 
+.texto input:not([type]),.texto input[type=text]:not(.browser-default),.texto input[type=password]:not(.browser-default),.texto input[type=email]:not(.browser-default),.texto input[type=url]:not(.browser-default),.texto input[type=time]:not(.browser-default),.texto input[type=date]:not(.browser-default),.texto input[type=datetime]:not(.browser-default),.texto input[type=datetime-local]:not(.browser-default),.texto input[type=tel]:not(.browser-default),.texto input[type=number]:not(.browser-default),.texto input[type=search]:not(.browser-default), textarea.materialize-textarea {
+    background-color: #fff;
+    border-bottom: 2px solid #3f3f3f;
+    border-radius: 0;
+    outline: none;
+    height: 3rem;
+    width: 100%;
+    font-size: 1rem;
+    margin: 0 0 20px 0;
+    padding: 9px 15px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+textarea {
+    padding: 9px 15px;
+    width: 100%;
+    height: 120px;
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+    border: 2px solid #3f3f3f;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
 
 .chamadas-principais {
     position: relative;

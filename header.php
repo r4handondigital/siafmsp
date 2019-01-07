@@ -37,19 +37,19 @@
 			      <ul class="left hide-on-med-and-down">
 			        <li><a href="<?php bloginfo('url'); ?>/">HOME</a></li>
 			        <li><a href="<?php bloginfo('url'); ?>/o-sindicato">O SINDICATO</a></li>
-			        <li><a href="<?php bloginfo('url'); ?>/servicos">SERVIÇOS</a></li>
-			        <li><a href="<?php bloginfo('url'); ?>/nav/noticias">NOTÍCIAS</a></li>
+			        <li><a href="<?php bloginfo('url'); ?>/prioridades">PRIORIDADES</a></li>
+			       <li><a href="<?php bloginfo('url'); ?>/nav/noticias">NOTÍCIAS</a></li>
 			        <li><a href="<?php bloginfo('url'); ?>/fale-conosco">FALE CONOSCO</a></li>
 			      </ul>
 			      <ul class="side-nav" id="mobile-demo">
 			       <li><a href="<?php bloginfo('url'); ?>/">HOME</a></li>
 			        <li><a href="<?php bloginfo('url'); ?>/o-sindicato">O SINDICATO</a></li>
-			        <li><a href="<?php bloginfo('url'); ?>/servicos">SERVIÇOS</a></li>
-			        <li><a href="<?php bloginfo('url'); ?>/nav/noticias">NOTÍCIAS</a></li>
+			        <li><a href="<?php bloginfo('url'); ?>/prioridades">PRIORIDADES</a></li>
+			       <li><a href="<?php bloginfo('url'); ?>/nav/noticias">NOTÍCIAS</a></li>
 			        <li><a href="<?php bloginfo('url'); ?>/fale-conosco">FALE CONOSCO</a></li>
 			      </ul>
 
-			      <div class="campo-busca right">
+			 <div class="campo-busca right">
 						<form class="form-inline widget search" method="get" id="searchform" action="<?php bloginfo('url'); ?>/">
 				              
 				                <input type="text" name="s" id="s" placeholder="Faça sua pesquisa">
@@ -70,10 +70,10 @@
 						<div class="frase-sp"><img src="<?php bloginfo('template_url'); ?>/imgs/frase-sao-paulo.png"></div>
 
 						<ul id="nav-redes-sociais">
-							<li><a href=""><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href=""><i class="fab fa-instagram"></i></a></li>
-							<li><a href=""><i class="fab fa-twitter"></i></a></li>
-							<li><a href=""><i class="fab fa-youtube"></i></a></li>
+							<li><a href="https://www.facebook.com/SIAFMSP" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="http://instagram.com/SIAFMSP" target="_blank"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="https://twitter.com/siafmsp/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+							
 						</ul>
 					</div>
 				</div>

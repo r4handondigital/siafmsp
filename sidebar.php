@@ -18,13 +18,13 @@
 
 						<div class="row">
 							<div class="col s12">
-								<img src="<?php bloginfo('template_url'); ?>/imgs/bt-fenap-int.jpg" class="responsive-img">
+								<a href="http://www.fenapaf.org.br/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/imgs/Filiado-a_3.png" class="responsive-img"></a>
 							</div>
 						</div>
 
 						<div class="row">
 							<div class="col s12">
-								<img src="<?php bloginfo('template_url'); ?>/imgs/bt-cadastro-int.jpg" class="responsive-img">
+								<a href="<?php bloginfo('url'); ?>/cadastro-de-atletas"><img src="<?php bloginfo('template_url'); ?>/imgs/bt-cadastro-int.jpg" class="responsive-img"></a>
 							</div>
 						</div>
 

@@ -7,7 +7,7 @@
 					</div>
 
 					<div class="col s12 m6">
-						<p class="right">Contato:<br>  +55 (11) 99573.2658</p>
+						<p class="right">Contato:<br>  contato@siafmsp.com.br</p>
 					</div>
 				</div>
         	</div>
