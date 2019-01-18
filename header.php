@@ -22,7 +22,7 @@
         <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/lib/owlcarousel/assets/owl.theme.default.min.css">
         <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/lib/owlcarousel/assets/owl.theme.green.min.css">
 
-		
+		<meta property="og:image" content="<?php bloginfo('template_url'); ?>/imgs/logo-siafmsp2.jpg" />
 
 		<!-- Custom styles for this template -->
 		<link href="<?php bloginfo('template_url'); ?>/lib/css/principal.css" rel="stylesheet">
@@ -65,7 +65,7 @@
         	<div class="container topo-conteudo">
         		<div class="row no-margin">
         			<div class="col s12">
-						<a href="<?php bloginfo('url'); ?>/" class="brand-logo"><img src="<?php bloginfo('template_url'); ?>/imgs/logo-siafmsp.png"></a>
+						<a href="<?php bloginfo('url'); ?>/" class="brand-logo"><img src="<?php bloginfo('template_url'); ?>/imgs/SIAFMSP.svg" width="182"></a>
 
 						<div class="frase-sp"><img src="<?php bloginfo('template_url'); ?>/imgs/frase-sao-paulo.png"></div>
 

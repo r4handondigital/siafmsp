@@ -19,6 +19,10 @@ strong,b{
 	margin-bottom: 0;
 }
 
+figure {
+    margin: 0;
+}
+
 header nav{
 	    background: #202020;
     height: 40px;
@@ -411,6 +415,16 @@ padding: 6px 12px;
 }
 /* COL-XS */
 @media only screen and  (max-width:767px){
+
+    .alignright{
+        margin-left: 0 !important;
+    }
+
+    .texto img{
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+    }
 
 	.frase-sp{
 		display: none !important;
